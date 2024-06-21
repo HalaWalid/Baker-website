@@ -1,0 +1,12 @@
+.bg-dark {
+    background-color: #343a40; /* Dark background color */
+}
+
+.bg-dark .nav-link {
+    color: white;
+}
+
+.bg-dark .nav-link.active {
+    background-color: #ff6600; /* Orange color */
+    border-color: #ff6600; /* Orange color */
+}
